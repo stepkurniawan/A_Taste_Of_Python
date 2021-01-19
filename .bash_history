@@ -20,3 +20,17 @@ git config --global "stepkurniawan@gmail.com"
 git config --global user.email "stepkurniawan@gmail.com"
 git config --global user.name "Stephen Kurniawan"
 git status
+git add .
+git commit -m "first commit"
+git push
+git push --set-upstream origin master
+python loops.py 
+python sum
+python sum-py
+python sum.py
+python positive.py 
+python countdown.py 
+help time
+python countdown.py 
+python guessing_game.py 
+git status
