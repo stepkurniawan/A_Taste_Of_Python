@@ -12,5 +12,5 @@ while True:
             print ("too big")
         elif guess < num:
             print ("too small")
-    print ("you failed, the number is :", num)
+    print ("the number is :", num)
     break

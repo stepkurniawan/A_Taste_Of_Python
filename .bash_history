@@ -34,3 +34,11 @@ help time
 python countdown.py 
 python guessing_game.py 
 git status
+git add . 
+git commit -m "added more files"
+python maximum.py 
+python 9.scores.py 
+python 10.multiplication.py 
+python 11.rectangle.py 
+git satus
+git status
